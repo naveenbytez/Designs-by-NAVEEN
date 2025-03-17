@@ -1,0 +1,61 @@
+{
+    "posters": [
+      {
+        "imageUrl": "design1.png",
+        "title": "Design 1"
+      },
+      {
+        "imageUrl": "design2.jpg",
+        "title": "Design 2"
+      },
+     
+      {
+        "imageUrl": "design3.jpeg",
+        "title": "Design 3"
+      },
+      {
+        "imageUrl": "design4.jpg",
+        "title": "Design 4"
+      },
+      {
+        "imageUrl": "design5.jpg",
+        "title": "Design 5"
+      },
+      {
+        "imageUrl": "design6.jpg",
+        "title": "Design 6"
+      },
+      {
+        "imageUrl": "design7.jpg",
+        "title": "Design 7"
+      },
+      {
+        "imageUrl": "design8.jpg",
+        "title": "Design 8"
+      },
+      {
+        "imageUrl": "design9.jpg",
+        "title": "Design 9"
+      },
+      {
+        "imageUrl": "design10.jpg",
+        "title": "Design 10"
+      }
+      
+    ],
+    "uiux": [
+      {
+        "embedUrl": "https://embed.figma.com/design/LwrhA4ewM6IANv0OId89U5/UI-Design-for-HSP?node-id=0-1&embed-host=share",
+        "title": "UI Design 1"
+      },
+      {
+        "embedUrl": "https://embed.figma.com/design/ythhdnZJnaA36ZvQZbb1FL/template?node-id=0-1&embed-host=share",
+        "title": "UI Design 2"
+      },
+      {
+        "embedUrl": "https://embed.figma.com/design/HUpyrdTAShH84T0x3MKJHc/Food-order---Naveen?embed-host=share",
+        "title": "UI Design 3"
+      }
+    ]
+  }
+

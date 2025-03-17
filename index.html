@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Designs by NAVEEN</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Knewave&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Theme Toggle -->
+  <div class="theme-toggle">
+    <button id="theme-button">🌙</button>
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="header-content">
+      <h1>Designs by NAVEEN</h1>
+      <p>Showcasing my Posters and UI/UX Designs</p>
+      <nav>
+        <a href="#posters">Posters</a>
+        <a href="#uiux">UI/UX</a>
+      </nav>
+    </div>
+    <div class="scroll-down">
+      <span>Scroll Down</span>
+      <div class="arrow"></div>
+    </div>
+  </header>
+
+  <!-- Poster Designs Section -->
+  <section id="posters" class="poster-section">
+    <h2>Poster Designs</h2>
+    <div class="portfolio-grid" id="portfolio-grid">
+      <!-- Poster items will be dynamically loaded here -->
+    </div>
+  </section>
+
+  <!-- UI/UX Designs Section -->
+  <section id="uiux" class="uiux-section">
+    <h2>UI/UX Designs</h2>
+    <div class="figma-embeds">
+      <!-- Figma embeds will be dynamically loaded here -->
+    </div>
+  </section>
+
+  <!-- Pop-up modal for full-screen view -->
+  <div id="image-modal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modal-image">
+    <a id="download-link" download>Download</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
